@@ -1,0 +1,14 @@
+{
+  "layout": "stat",
+  "accent": "games",
+  "category": "Игры",
+  "chip": "FromSoftware · Switch 2",
+  "title": "Duskbloods\nотложили",
+  "big": "2027",
+  "cap": "Новое окно релиза. <b>Точной даты пока нет</b>",
+  "cards": [
+    {"b": "до 8", "s": "игроков в матче"},
+    {"b": "PvPvE", "s": "жанр"},
+    {"b": "Switch 2", "s": "эксклюзив"}
+  ]
+}
