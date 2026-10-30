@@ -1,0 +1,14 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · PGL Masters Bucharest",
+  "title": "Nemiga выбила\nVitality",
+  "team1": "Nemiga", "score1": "2",
+  "team2": "Vitality", "score2": "0",
+  "maps": [
+    {"name": "CACHE", "score": "13 : 8", "win": true},
+    {"name": "DUST2", "score": "13 : 11", "win": true}
+  ],
+  "bar": {"left": "гранд-финал", "right": "Nemiga - MOUZ / FURIA"}
+}
