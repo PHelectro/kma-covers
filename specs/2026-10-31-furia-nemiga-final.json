@@ -1,0 +1,15 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · PGL Masters Bucharest",
+  "title": "FURIA сломала\nсказку Nemiga",
+  "team1": "FURIA", "score1": "3",
+  "team2": "Nemiga", "score2": "2",
+  "maps": [
+    {"name": "CACHE", "score": "13 : 2", "win": true},
+    {"name": "MIRAGE", "score": "11 : 13", "win": false},
+    {"name": "NUKE", "score": "13 : 6", "win": true}
+  ],
+  "bar": {"left": "гранд-финал, bo5", "right": "MVP - YEKINDAR"}
+}

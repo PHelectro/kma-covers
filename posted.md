@@ -4,3 +4,4 @@
 - 2026-10-30 10:52 | игры | The Duskbloods перенесли на 2027 | Nintendo Wire, Gameluster (заявление FromSoftware в X)
 - 2026-10-30 20:15 | киберспорт | Nemiga обыграла Vitality 2:0, финал PGL Masters Bucharest | HLTV, Metaratings
 - 2026-10-31 10:55 | игры | Тизер аниме Death Stranding Isolations (Disney+, 2027) | Game Informer, Noisy Pixel, kojimaproductions.jp
+- 2026-10-31 20:11 | киберспорт | FURIA обыграла Nemiga 3:2 в финале PGL Masters Bucharest | HLTV, Hotspawn
