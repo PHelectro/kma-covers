@@ -1,0 +1,14 @@
+{
+  "layout": "stat",
+  "accent": "games",
+  "category": "Игры",
+  "chip": "Kojima Productions · Disney+",
+  "title": "Death Stranding\nстанет аниме",
+  "big": "2027",
+  "cap": "Премьера на Disney+. <b>Рисованная 2D-анимация</b>",
+  "cards": [
+    {"b": "E&H", "s": "студия Ninja Kamui"},
+    {"b": "Кувшинов", "s": "дизайн персонажей"},
+    {"b": "Кодзима", "s": "продюсер"}
+  ]
+}
