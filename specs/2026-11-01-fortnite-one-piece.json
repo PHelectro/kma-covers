@@ -1,0 +1,14 @@
+{
+  "layout": "stat",
+  "accent": "games",
+  "category": "Игры",
+  "chip": "Fortnite · Treasure Hunters",
+  "title": "One Piece\nворвался в Fortnite",
+  "big": "80",
+  "cap": "игроков на новой карте <b>Crossbones Isle</b>",
+  "cards": [
+    {"b": "Эйс", "s": "боевой пропуск"},
+    {"b": "Луффи", "s": "магазин, с 1.11"},
+    {"b": "5.12", "s": "финал главы 7"}
+  ]
+}
