@@ -1,0 +1,10 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "Dota 2 · PARI Universe",
+  "title": "Spirit взяла\nреванш у Yandex",
+  "team1": "Spirit", "score1": "3",
+  "team2": "Yandex", "score2": "0",
+  "bar": {"left": "гранд-финал, bo5", "right": "$125 000 за 1-е место"}
+}
