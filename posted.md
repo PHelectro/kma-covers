@@ -8,3 +8,4 @@
 - 2026-11-01 10:55 | игры | Мини-сезон Fortnite Treasure Hunters с One Piece | Shacknews, timesaver.gg, theclick.gg
 - 2026-11-01 20:18 | киберспорт | Spirit обыграла Team Yandex 3:0 в гранд-финале PARI Universe (Dota 2) | dota2.ru, esports.ru, cyber.sports.ru
 - 2026-11-02 10:55 | игры | Закрытие Nagoshi Studio (Gang of Dragon), роспуск 31.10 | Gematsu, Beebom, Final Weapon (Kanpo)
+- 2026-11-02 20:47 | киберспорт | NAVI обыграла Falcons 2:0 на старте IEM Beijing 2026 (CS2) | HLTV, Cybersport.ru, esports.ru
