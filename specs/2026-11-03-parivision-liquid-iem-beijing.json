@@ -1,0 +1,14 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · IEM Beijing 2026",
+  "title": "Liquid\nбез шансов",
+  "team1": "PARIVISION", "score1": "2",
+  "team2": "Liquid", "score2": "0",
+  "maps": [
+    {"name": "ANCIENT", "score": "13 : 7", "win": true},
+    {"name": "INFERNO", "score": "13 : 9", "win": true}
+  ],
+  "bar": {"left": "далее: верхний финал с MOUZ", "right": "FL1T - 1.48"}
+}
