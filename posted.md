@@ -11,3 +11,4 @@
 - 2026-11-02 20:47 | киберспорт | NAVI обыграла Falcons 2:0 на старте IEM Beijing 2026 (CS2) | HLTV, Cybersport.ru, esports.ru
 - 2026-11-03 10:55 | игры | Phantom Blade Zero: 4 млн копий за 72 часа, пик 800K+ в Steam | Gematsu, GamesRadar, Push Square
 - 2026-11-03 20:15 | киберспорт | PARIVISION обыграла Liquid 2:0 и вышла в плей-офф IEM Beijing 2026 (CS2) | HLTV, Cybersport.ru, ESTNN
+- 2026-11-04 10:51 | игры | The Elder Scrolls VI получила название Sentinel (Хаммерфелл), 40 лет Bethesda | Shacknews, Pure Xbox

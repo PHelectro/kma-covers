@@ -1,0 +1,14 @@
+{
+  "layout": "stat",
+  "accent": "games",
+  "category": "Игры",
+  "chip": "The Elder Scrolls VI · Bethesda",
+  "title": "Восемь лет ждали\nодно слово",
+  "big": "Sentinel",
+  "cap": "официальное название <b>TES VI</b>",
+  "cards": [
+    {"b": "Хаммерфелл", "s": "место действия"},
+    {"b": "40 лет", "s": "юбилей Bethesda"},
+    {"b": "2018", "s": "первый тизер на E3"}
+  ]
+}
