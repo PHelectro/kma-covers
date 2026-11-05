@@ -13,3 +13,4 @@
 - 2026-11-03 20:15 | киберспорт | PARIVISION обыграла Liquid 2:0 и вышла в плей-офф IEM Beijing 2026 (CS2) | HLTV, Cybersport.ru, ESTNN
 - 2026-11-04 10:51 | игры | The Elder Scrolls VI получила название Sentinel (Хаммерфелл), 40 лет Bethesda | Shacknews, Pure Xbox
 - 2026-11-04 20:15 | киберспорт | NAVI обыграла Falcons 2:1 и вышла в плей-офф IEM Beijing 2026 (CS2) | navi.gg, Sport-Express, pley.gg
+- 2026-11-05 10:55 | игры | Ремейк Zelda: Ocarina of Time вышел на Switch 2 (40 лет Zelda) | Nintendo.com, Techloy, Engadget
