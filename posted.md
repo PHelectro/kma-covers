@@ -16,3 +16,4 @@
 - 2026-11-05 10:55 | игры | Ремейк Zelda: Ocarina of Time вышел на Switch 2 (40 лет Zelda) | Nintendo.com, Techloy, Engadget
 - 2026-11-05 20:15 | киберспорт | Gen.G обыграла LYON 3:0 в четвертьфинале Worlds 2026 (LoL) | Hotspawn, Yardbarker, Riftdaily | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк
 - 2026-11-06 10:55 | игры | Отчёт Nintendo: Switch 2 26,35 млн, -41% за квартал, прогноз 16,5 млн | Gamereactor, Tech Insider | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-06 20:15 | киберспорт | BetBoom обыграли FURIA 2:1 в четвертьфинале IEM Beijing 2026 (CS2) | HLTV, Hotspawn | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)

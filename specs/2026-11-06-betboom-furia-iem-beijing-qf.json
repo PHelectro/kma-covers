@@ -1,0 +1,33 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · IEM Beijing 2026",
+  "title": "BetBoom выбили\nчемпионов",
+  "team1": "BetBoom",
+  "score1": "2",
+  "team2": "FURIA",
+  "score2": "1",
+  "maps": [
+    {
+      "name": "ANCIENT",
+      "score": "13 : 5",
+      "win": true
+    },
+    {
+      "name": "DUST2",
+      "score": "FURIA",
+      "win": false
+    },
+    {
+      "name": "NUKE",
+      "score": "16 : 14",
+      "win": true
+    }
+  ],
+  "bar": {
+    "left": "далее: полуфинал с MOUZ, 7 ноября",
+    "right": "zorte 62-36"
+  },
+  "caption": "💥 <b>BetBoom выбили чемпионов PGL Masters из IEM Beijing</b>\n\nВ четвертьфинале IEM Beijing 2026 BetBoom обыграли FURIA 2:1. Ancient забрали уверенно 13:5, FURIA ответила на Dust2, а судьбу серии решил Nuke: BetBoom вели 12:7, упустили преимущество, но дожали в овертайме 16:14.\n\nГероем серии стал zorte: 62 убийства при 36 смертях. FURIA всего неделю назад выиграла PGL Masters Bucharest, а теперь едет домой уже из четвертьфинала.\n\nВ полуфинале 7 ноября BetBoom ждёт MOUZ - реванш за поражение в группе. Там же сыграют NAVI и The MongolZ.\n\nДойдут BetBoom до финала? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
