@@ -1,0 +1,20 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · IEM Beijing 2026",
+  "title": "NAVI не дошли\nдо финала",
+  "team1": "The MongolZ",
+  "score1": "2",
+  "team2": "NAVI",
+  "score2": "0",
+  "maps": [
+    {"name": "CACHE", "score": "13 : 10", "win": true},
+    {"name": "INFERNO", "score": "MongolZ", "win": true}
+  ],
+  "bar": {
+    "left": "финал 8 ноября: The MongolZ - MOUZ",
+    "right": "MOUZ 2:0 BetBoom"
+  },
+  "caption": "🇲🇳 <b>The MongolZ выбили NAVI из IEM Beijing</b>\n\nВ полуфинале IEM Beijing 2026 The MongolZ обыграли NAVI 2:0. Cache монголы забрали 13:10, а на Inferno снова оказались сильнее и закрыли серию без третьей карты.\n\nВо втором полуфинале не повезло и BetBoom: MOUZ разобрали их 2:0 (Ancient 13:7, Mirage 13:8). Так что в Пекине обе команды из СНГ остановились в шаге от финала.\n\nГранд-финал 8 ноября: The MongolZ против MOUZ.\n\nКто заберёт титул? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
