@@ -1,0 +1,33 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · IEM Beijing 2026",
+  "title": "MOUZ взяли Пекин\nбез потерь",
+  "team1": "MOUZ",
+  "score1": "3",
+  "team2": "The MongolZ",
+  "score2": "0",
+  "maps": [
+    {
+      "name": "MIRAGE",
+      "score": "13 : 5",
+      "win": true
+    },
+    {
+      "name": "DUST2",
+      "score": "13 : 6",
+      "win": true
+    },
+    {
+      "name": "INFERNO",
+      "score": "13 : 4",
+      "win": true
+    }
+  ],
+  "bar": {
+    "left": "далее: PGL Major Singapore",
+    "right": "xertioN - рейтинг 1.44"
+  },
+  "caption": "🏆 <b>MOUZ разгромили The MongolZ и взяли IEM Beijing</b>\n\nГранд-финал IEM Beijing 2026 закончился без интриги: MOUZ выиграли 3:0 - Mirage 13:5, Dust2 13:6, Inferno 13:4. Монголы ни на одной карте не набрали больше шести раундов.\n\nЗа весь турнир MOUZ не отдали ни одной карты, по пути выбив в полуфинале BetBoom. Лучший рейтинг в финале - 1.44 у капитана xertioN. Это второй трофей команды в 2026 году после BLAST Bounty.\n\nСледующая большая остановка - PGL Major Singapore. Кажется, у MOUZ есть все шансы приехать туда главным фаворитом.\n\nКто сможет остановить MOUZ на мейджоре? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
