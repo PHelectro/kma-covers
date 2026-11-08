@@ -19,3 +19,4 @@
 - 2026-11-06 20:15 | киберспорт | BetBoom обыграли FURIA 2:1 в четвертьфинале IEM Beijing 2026 (CS2) | HLTV, Hotspawn | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-07 10:52 | игры | 20 лет Gears of War: RAAM бесплатно в E-Day с 7.11, сезон 2 Legacy 1.12 | Xbox Wire, CBR, Final Weapon | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-07 20:15 | киберспорт | The MongolZ обыграли NAVI 2:0 в полуфинале IEM Beijing 2026, MOUZ 2:0 BetBoom (CS2) | HLTV, skin.club | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-08 10:52 | игры | WoW: Forever - крупнейший запуск в истории WoW по пиковому онлайну (рекорд Wrath), старт 4.11 | Windows Central, Warcraft Tavern, GamesRadar, Shacknews | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
