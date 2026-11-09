@@ -22,3 +22,4 @@
 - 2026-11-08 10:52 | игры | WoW: Forever - крупнейший запуск в истории WoW по пиковому онлайну (рекорд Wrath), старт 4.11 | Windows Central, Warcraft Tavern, GamesRadar, Shacknews | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-08 20:11 | киберспорт | MOUZ обыграли The MongolZ 3:0 в гранд-финале IEM Beijing 2026, без проигранных карт (CS2) | HLTV, Hotspawn, talkesport | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-09 10:55 | игры | Слух: AC Hexe отложена до 2028, AC Mars (Рим) и Pocket (Иерусалим, мобилки) | GamesRadar, tbreak, Playfront, Tech4Gamers (Insider Gaming, j0nathan) | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-09 20:15 | киберспорт | BLG обыграли T1 3:1 в полуфинале Worlds 2026, финал с Gen.G 14.11 (LoL) | ESTNN, EarlyGame, Sheep Esports | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
