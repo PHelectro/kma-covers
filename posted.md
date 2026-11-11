@@ -25,3 +25,4 @@
 - 2026-11-09 20:15 | киберспорт | BLG обыграли T1 3:1 в полуфинале Worlds 2026, финал с Gen.G 14.11 (LoL) | ESTNN, EarlyGame, Sheep Esports | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-10 10:55 | игры | Релиз Football Manager 27 (ПК/Mac, Xbox в Game Pass с первого дня) | dlcompare, Steam, Pure Xbox, Khel Now | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-10 20:15 | киберспорт | Panto и Team Spirit расторгли контракт (Dota 2), 9.11 | dota2.ru, Cybersport.ru, cyber.sports.ru | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-11 10:52 | игры | GTA 6: 30 FPS на всех консолях, PSSR и RT-тени на PS5 Pro, Xbox One через облако, релиз 19.11 | Shacknews, Notebookcheck, Beebom (Rockstar Newswire) | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
