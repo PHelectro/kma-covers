@@ -28,4 +28,4 @@
 - 2026-11-11 10:52 | игры | GTA 6: 30 FPS на всех консолях, PSSR и RT-тени на PS5 Pro, Xbox One через облако, релиз 19.11 | Shacknews, Notebookcheck, Beebom (Rockstar Newswire) | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-11 20:15 | киберспорт | Spirit обыграли FUT 2:1 на старте BLAST Rivals Fall 2026, первая карта 0:13 в истории Spirit (CS2) | HLTV, Dust2.us | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-12 10:10 | игры | Утечка: Discord Pass the Controller - зрители стрима смогут взять управление игрой | playstationinfo.de, DualShockers (Wumpus Central) | вручную владельцем
-- 2026-11-12 20:18 | киберспорт | Spirit обыграли G2 2:1 и вышли в полуфинал BLAST Rivals Fall 2026 (CS2), полуфинал 14.11 | HLTV, cyber.sports.ru
+- 2026-11-12 20:18 | киберспорт | Spirit обыграли G2 2:1 и вышли в полуфинал BLAST Rivals Fall 2026 (CS2), полуфинал 14.11 | HLTV, cyber.sports.ru | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
