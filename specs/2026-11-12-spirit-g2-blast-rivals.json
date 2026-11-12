@@ -1,0 +1,21 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · BLAST Rivals Fall",
+  "title": "Spirit сразу\nв полуфинале",
+  "team1": "SPIRIT",
+  "score1": "2",
+  "team2": "G2",
+  "score2": "1",
+  "maps": [
+    {"name": "MIRAGE", "score": "9 : 13", "win": false},
+    {"name": "NUKE", "score": "13 : 6", "win": true},
+    {"name": "ANCIENT", "score": "13 : 5", "win": true}
+  ],
+  "bar": {
+    "left": "полуфинал: 14 ноября",
+    "right": "Гонконг"
+  },
+  "caption": "🔥 <b>Spirit обыграли G2 и первыми вышли в полуфинал BLAST Rivals</b>\n\nTeam Spirit победили G2 со счётом 2:1 в финале группы BLAST Rivals Fall 2026 в Гонконге. Mirage остался за G2 - 9:13, но дальше Spirit забрали Nuke 13:6 и уверенно закрыли Ancient 13:5.\n\nЛучшим в серии стал sh1ro с рейтингом 1.29, donk добавил 1.26. Победа в группе дала Spirit прямой выход в полуфинал: 14 ноября они сыграют с победителем пары Vitality - MOUZ. G2 начнут плей-офф с четвертьфинала против Falcons. Призовой фонд турнира - $1 000 000.\n\nКто выйдет на Spirit - Vitality или MOUZ? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
