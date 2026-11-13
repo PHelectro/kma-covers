@@ -1,0 +1,21 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · BLAST Rivals Fall",
+  "title": "Falcons снова\nсильнее G2",
+  "team1": "FALCONS",
+  "score1": "2",
+  "team2": "G2",
+  "score2": "1",
+  "maps": [
+    {"name": "DUST2", "score": "11 : 13", "win": false},
+    {"name": "MIRAGE", "score": "13 : 2", "win": true},
+    {"name": "ANUBIS", "score": "13 : 8", "win": true}
+  ],
+  "bar": {
+    "left": "полуфинал с FURIA: 14 ноября",
+    "right": "Гонконг"
+  },
+  "caption": "🦅 <b>Falcons отыгрались против G2 и вышли в полуфинал BLAST Rivals</b>\n\nTeam Falcons победили G2 со счётом 2:1 в четвертьфинале BLAST Rivals Fall 2026 в Гонконге. Dust2 забрали G2 - 13:11, но потом Falcons разгромили соперника на Mirage 13:2 и закрыли Anubis 13:8. Лучшим стал TeSeS с рейтингом 1.36, m0NESY добавил 1.20. Это уже шестая победа Falcons над G2 подряд.\n\nВ другом четвертьфинале MOUZ всухую выбили Vitality - 2:0, решающий Cache ушёл в овертайм 16:14. 14 ноября в полуфиналах Spirit сыграют с MOUZ, а Falcons - с FURIA. Призовой фонд - $1 000 000.\n\nКто выйдет в гранд-финал? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
