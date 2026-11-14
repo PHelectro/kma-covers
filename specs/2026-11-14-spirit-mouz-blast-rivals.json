@@ -1,0 +1,20 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · BLAST Rivals Fall",
+  "title": "Spirit\nидут в финал",
+  "team1": "SPIRIT",
+  "score1": "2",
+  "team2": "MOUZ",
+  "score2": "0",
+  "maps": [
+    {"name": "MIRAGE", "score": "13 : 7", "win": true},
+    {"name": "ANCIENT", "score": "13 : 11", "win": true}
+  ],
+  "bar": {
+    "left": "финал с FURIA: 15 ноября, Bo5",
+    "right": "Гонконг"
+  },
+  "caption": "🐉 <b>Spirit всухую обыграли MOUZ и вышли в финал BLAST Rivals</b>\n\nTeam Spirit победили MOUZ со счётом 2:0 в полуфинале BLAST Rivals Fall 2026 в Гонконге. Mirage забрали уверенно - 13:7, а на Ancient дожали соперника 13:11. Лучшим в матче стал tN1R с рейтингом 1.47, magixx добавил 1.38, а donk в концовке Ancient выдал важные трипл-киллы.\n\nВ финале Spirit ждёт FURIA: бразильцы тоже всухую прошли Falcons - 2:0 (Ancient 16:14, Dust2 13:5), KSCERATO выдал рейтинг 1.69. Гранд-финал до трёх побед пройдёт 15 ноября, призовой фонд турнира - $1 000 000.\n\nКто заберёт трофей - Spirit или FURIA? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
