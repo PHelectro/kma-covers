@@ -32,4 +32,4 @@
 - 2026-11-13 10:55 | игры | Wolfenstein 3 официально в производстве у MachineGames, Блум и Уилсон возвращаются (25 лет Xbox) | Xbox Wire, Inven Global, tbreak | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-13 20:15 | киберспорт | Falcons обыграли G2 2:1 в четвертьфинале BLAST Rivals Fall 2026, MOUZ 2:0 Vitality; полуфиналы 14.11 Spirit-MOUZ, Falcons-FURIA (CS2) | HLTV, Cybersport.ru, cyber.sports.ru | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-14 10:55 | игры | Анонс Super Meat Boy Again+ (Team Meat, ПК, 300+ уровней, музыка Danny B, дата не объявлена) | Gematsu, Steam, VGTimes | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
-- 2026-11-14 20:15 | киберспорт | Spirit обыграли MOUZ 2:0 в полуфинале BLAST Rivals Fall 2026, финал с FURIA (2:0 Falcons) 15.11 (CS2) | HLTV, Fragster, Hotspawn
+- 2026-11-14 20:15 | киберспорт | Spirit обыграли MOUZ 2:0 в полуфинале BLAST Rivals Fall 2026, финал с FURIA (2:0 Falcons) 15.11 (CS2) | HLTV, Fragster, Hotspawn | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
