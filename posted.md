@@ -34,4 +34,4 @@
 - 2026-11-14 10:55 | игры | Анонс Super Meat Boy Again+ (Team Meat, ПК, 300+ уровней, музыка Danny B, дата не объявлена) | Gematsu, Steam, VGTimes | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-14 20:15 | киберспорт | Spirit обыграли MOUZ 2:0 в полуфинале BLAST Rivals Fall 2026, финал с FURIA (2:0 Falcons) 15.11 (CS2) | HLTV, Fragster, Hotspawn | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-15 10:55 | игры | Утечка трек-листа GTA VI: The Album (34 трека, Dua Lipa, Lana Del Rey, Jennie), релиз 19.11 | GamesRadar, Dexerto, Notebookcheck | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
-- 2026-11-15 20:15 | киберспорт | FURIA обыграли Spirit 3:0 в гранд-финале BLAST Rivals Fall 2026 (CS2), KSCERATO 1.68 | HLTV, Field Level Media, Fragster |
+- 2026-11-15 20:15 | киберспорт | FURIA обыграли Spirit 3:0 в гранд-финале BLAST Rivals Fall 2026 (CS2), KSCERATO 1.68 | HLTV, Field Level Media, Fragster | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
