@@ -1,0 +1,21 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "CS2 · BLAST Rivals Fall",
+  "title": "FURIA забрали\nтрофей",
+  "team1": "FURIA",
+  "score1": "3",
+  "team2": "SPIRIT",
+  "score2": "0",
+  "maps": [
+    {"name": "ANCIENT", "score": "13 : 11", "win": true},
+    {"name": "DUST2", "score": "13 : 5", "win": true},
+    {"name": "MIRAGE", "score": "13 : 8", "win": true}
+  ],
+  "bar": {
+    "left": "3-й трофей FURIA за 4 турнира",
+    "right": "Гонконг"
+  },
+  "caption": "🏆 <b>FURIA разгромили Spirit в финале BLAST Rivals</b>\n\nTeam Spirit не смогли взять ни одной карты в гранд-финале BLAST Rivals Fall 2026 в Гонконге: FURIA победили 3:0. Ancient решился в концовке - 13:11, а Dust2 (13:5) и Mirage (13:8) бразильцы забрали увереннее.\n\nЛучшим в серии стал KSCERATO с рейтингом 1.68 (57-31). У Spirit старался donk - 1.23, но партнёры не поддержали. Для FURIA это третий трофей за последние четыре турнира, за победу команда получает $250 000, Spirit - $200 000.\n\nЧто случилось со Spirit в финале? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
