@@ -35,3 +35,4 @@
 - 2026-11-14 20:15 | киберспорт | Spirit обыграли MOUZ 2:0 в полуфинале BLAST Rivals Fall 2026, финал с FURIA (2:0 Falcons) 15.11 (CS2) | HLTV, Fragster, Hotspawn | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-15 10:55 | игры | Утечка трек-листа GTA VI: The Album (34 трека, Dua Lipa, Lana Del Rey, Jennie), релиз 19.11 | GamesRadar, Dexerto, Notebookcheck | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-15 20:15 | киберспорт | FURIA обыграли Spirit 3:0 в гранд-финале BLAST Rivals Fall 2026 (CS2), KSCERATO 1.68 | HLTV, Field Level Media, Fragster | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-16 10:55 | игры | Слух: детали MMO Riot по LoL (3 фракции, PvPvE-экстракшен, потеря лута), инсайдер Local_Anything191 | GoHa.Ru, GameRiv, iXBT.games | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
