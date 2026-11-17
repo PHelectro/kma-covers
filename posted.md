@@ -38,3 +38,4 @@
 - 2026-11-16 10:55 | игры | Слух: детали MMO Riot по LoL (3 фракции, PvPvE-экстракшен, потеря лута), инсайдер Local_Anything191 | GoHa.Ru, GameRiv, iXBT.games | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-16 20:15 | киберспорт | HLTV Hall of Fame 2026: dupreeh, NEO, Ksharp, solo (kennyS снова мимо), церемония 9.01 в Белграде | Dust2.in, Pley.gg, rg.org, 1xbet tribuna | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-17 10:55 | игры | Steam начал собирать анонимные данные о FPS (опт-ин на странице игры), прогноз FPS в магазине | Instant Gaming News, VGTimes, TechSpot | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-17 21:55 | киберспорт | Spirit обыграли PARIVISION 2:0 в полуфинале верхней сетки 1win Essence 3 (Dota 2), гранд-финал 18.11 Bo5 | cyber.sports.ru, hawk.live, cybersport.ru, dofrag | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)

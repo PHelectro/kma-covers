@@ -1,0 +1,20 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "Dota 2 · 1win Essence 3",
+  "title": "Spirit рвутся\nк трофею",
+  "team1": "SPIRIT",
+  "score1": "2",
+  "team2": "PARIVISION",
+  "score2": "0",
+  "maps": [
+    {"name": "КАРТА 1 · 33 МИН", "score": "32 : 20", "win": true},
+    {"name": "КАРТА 2 · 35 МИН", "score": "28 : 12", "win": true}
+  ],
+  "bar": {
+    "left": "Гранд-финал 18.11, Bo5",
+    "right": "$100 000 за 1-е"
+  },
+  "caption": "🐉 <b>Spirit разгромили PARIVISION на 1win Essence 3</b>\n\nTeam Spirit уверенно обыграли PARIVISION со счётом 2:0 в полуфинале верхней сетки плей-офф 1win Essence 3. Обе карты - без шансов для соперника: 32:20 по убийствам за 33 минуты и 28:12 за 35 минут.\n\nPARIVISION с тренером Puppey опустились в нижнюю сетку, а Spirit вышли в финал верхней сетки против Aurora. Гранд-финал турнира пройдёт 18 ноября в 19:00 мск в формате Bo5, призовой фонд - $200 000, из них $100 000 получит чемпион.\n\nЗаберут ли Spirit трофей? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
