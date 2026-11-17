@@ -37,3 +37,4 @@
 - 2026-11-15 20:15 | киберспорт | FURIA обыграли Spirit 3:0 в гранд-финале BLAST Rivals Fall 2026 (CS2), KSCERATO 1.68 | HLTV, Field Level Media, Fragster | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-16 10:55 | игры | Слух: детали MMO Riot по LoL (3 фракции, PvPvE-экстракшен, потеря лута), инсайдер Local_Anything191 | GoHa.Ru, GameRiv, iXBT.games | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-16 20:15 | киберспорт | HLTV Hall of Fame 2026: dupreeh, NEO, Ksharp, solo (kennyS снова мимо), церемония 9.01 в Белграде | Dust2.in, Pley.gg, rg.org, 1xbet tribuna | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-17 10:55 | игры | Steam начал собирать анонимные данные о FPS (опт-ин на странице игры), прогноз FPS в магазине | Instant Gaming News, VGTimes, TechSpot | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
