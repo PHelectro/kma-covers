@@ -1,0 +1,21 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "Dota 2 · 1win Essence 3",
+  "title": "Реванш\nв гранд-финале",
+  "team1": "PARIVISION",
+  "score1": "2",
+  "team2": "AURORA",
+  "score2": "1",
+  "maps": [
+    {"name": "КАРТА 1", "score": "AURORA", "win": false},
+    {"name": "КАРТА 2", "score": "PARIVISION", "win": true},
+    {"name": "КАРТА 3", "score": "PARIVISION", "win": true}
+  ],
+  "bar": {
+    "left": "Финал 18.11: Spirit - PARIVISION",
+    "right": "Bo5"
+  },
+  "caption": "⚔️ <b>PARIVISION выбили Aurora и вышли в гранд-финал 1win Essence 3</b>\n\nPARIVISION обыграли Aurora Gaming со счётом 2:1 в финале нижней сетки 1win Essence 3. Aurora забрали первую карту, но команда No[o]ne и тренера Puppey ответила двумя победами подряд. Aurora заканчивают турнир на 3-м месте и получают $22 500.\n\nВ гранд-финале PARIVISION ждёт Team Spirit - тот самый соперник, который накануне отправил их в нижнюю сетку со счётом 2:0. Решающая серия пройдёт сегодня, 18 ноября, в формате Bo5, на кону $100 000 из призового фонда $200 000.\n\nСмогут ли PARIVISION взять реванш у Spirit? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
