@@ -1,0 +1,21 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "Dota 2 · 1win Essence 3",
+  "title": "Реванш\nсостоялся",
+  "team1": "PARIVISION",
+  "score1": "3",
+  "team2": "SPIRIT",
+  "score2": "1",
+  "maps": [
+    {"name": "ИГРЫ 1-2", "score": "PARIVISION", "win": true},
+    {"name": "ИГРА 3", "score": "SPIRIT", "win": false},
+    {"name": "ИГРА 4", "score": "PARIVISION", "win": true}
+  ],
+  "bar": {
+    "left": "Чемпион: PARIVISION",
+    "right": "$100 000"
+  },
+  "caption": "🏆 <b>PARIVISION обыграли Spirit и выиграли 1win Essence 3</b>\n\nPARIVISION прошли через нижнюю сетку и взяли гранд-финал у Team Spirit со счётом 3:1. Первые две игры за PARIVISION, Spirit ответили на третьей благодаря Storm Spirit от Larl, но четвёртую закрыл Satanic на Kez.\n\nЭто реванш и за 0:2 в верхней сетке этого же турнира, и за проигранный Spirit финал TI 2026. Для команды это пятый титул за год и второй 1win Essence. Чемпионы получают $100 000, Spirit - $50 000.\n\nКонец гегемонии Spirit или случайность? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
