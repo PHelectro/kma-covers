@@ -41,3 +41,4 @@
 - 2026-11-17 21:55 | киберспорт | Spirit обыграли PARIVISION 2:0 в полуфинале верхней сетки 1win Essence 3 (Dota 2), гранд-финал 18.11 Bo5 | cyber.sports.ru, hawk.live, cybersport.ru, dofrag | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-18 10:55 | игры | Номинанты The Game Awards 2026: GTA 6 в «Игре года» до релиза (19.11), лидер по номинациям; церемония 10.12 | Variety, The Big Lead, esportnow.gg, Khel Now | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-18 20:15 | киберспорт | PARIVISION обыграли Aurora 2:1 в финале нижней сетки 1win Essence 3, гранд-финал с Spirit 18.11 Bo5 (Dota 2) | cyber.sports.ru, dota2.ru, cybersport.ru | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-19 10:52 | игры | Релиз GTA 6 (PS5, Xbox Series X|S): Metacritic 99 и OpenCritic 99, рекорд наравне с Zelda: Ocarina of Time | GamesRadar, Vice, Tom's Guide
