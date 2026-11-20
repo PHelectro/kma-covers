@@ -1,0 +1,28 @@
+{
+  "layout": "score",
+  "accent": "esports",
+  "category": "Киберспорт",
+  "chip": "Dota 2 · BLAST Slam IX",
+  "title": "Старт\nс поражения",
+  "team1": "NEMESIS",
+  "score1": "2",
+  "team2": "SPIRIT",
+  "score2": "0",
+  "maps": [
+    {
+      "name": "ИГРА 1",
+      "score": "51 МИН",
+      "win": true
+    },
+    {
+      "name": "ИГРА 2",
+      "score": "42 МИН",
+      "win": true
+    }
+  ],
+  "bar": {
+    "left": "21.11: Spirit - Xtreme",
+    "right": "$750 000"
+  },
+  "caption": "😮 <b>Spirit проиграли Nemesis 0:2 на старте BLAST Slam IX</b>\n\nTeam Spirit начали BLAST Slam IX с поражения: Nemesis выиграли обе карты (51 и 42 минуты). Главная деталь - Yatoro впервые за год вышел на центральную линию. Это была первая игра обеих команд на патче 7.42.\n\nВ группе B у Spirit еще есть шанс: 21 ноября они сыграют с Xtreme Gaming, которые уступили GamerLegion 0:2. А вот NAVI стартовали с победы - 2:1 над OG в группе A. Турнир идет онлайн до 29 ноября, призовой фонд $750 000.\n\nYatoro на миду - эксперимент или новая роль? Пишите в комментариях 👇\n\n📹<a href=\"https://youtube.com/@esportsmedicine?si=HDDMUdWQ5HCY5pYn\"><b>YouTube</b></a> <b>|</b> 💬<a href=\"https://vk.cc/ccoXXI\"><b>ВК</b></a>"
+}
