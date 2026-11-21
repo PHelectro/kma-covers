@@ -45,3 +45,4 @@
 - 2026-11-19 20:15 | киберспорт | PARIVISION обыграли Spirit 3:1 в гранд-финале 1win Essence 3, пятый титул за год, $100 000 (Dota 2) | Field Level Media, esports.net, GosuGamers, DLTV | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-20 10:52 | игры | Первые сутки GTA 6: ~$2,36 млрд и ~24,6 млн копий по оценке Sensor Tower (GTA 5 - $800 млн) | TweakTown, Notebookcheck, GameSpot, Deadline | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-20 20:13 | киберспорт | Nemesis обыграли Spirit 2:0 на старте BLAST Slam IX, Yatoro впервые за год на миду; NAVI 2:1 OG (Dota 2) | cybersport.ru, cyber.sports.ru, tribuna | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-21 10:52 | игры | Horror Game Awards 2026: хоррор года - Hellraiser: Revival, Doug Bradley лучшая роль, RE Requiem больше всех наград | Dread Central, Fextralife, Escapist, Bloody Disgusting
