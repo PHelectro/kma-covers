@@ -50,3 +50,4 @@
 - 2026-11-22 10:55 | игры | Слух: L.A. Noire 2 (Сан-Франциско, Зодиак, ~2030), утечка 2023 всплыла снова после GTA 6 | Dexerto, GameGPU, TweakTown, tbreak | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-22 20:11 | киберспорт | Xtreme Gaming обыграли Spirit 2:1 (рестарт 3-й карты, ~96 мин), Spirit вылетели с BLAST Slam IX (Dota 2) | cybersport.ru, metaratings, championat, dota2.ru | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
 - 2026-11-23 10:54 | игры | Serious Sam Fusion вышла из беты спустя 9+ лет (TFE, TSE, BFE + VR, финальный патч, скидки до 30.11) | Steam News, VGTimes, iXBT.games | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
+- 2026-11-23 20:15 | киберспорт | OG выбили NAVI из BLAST Slam IX (группа A, реванш за 1:2 от 20.11), NAVI 9-12 место; Nemesis тоже вылетели (Dota 2) | cybersport.ru, sport.ua, hawk.live | НЕ ОПУБЛИКОВАНО: AnythingMCP trial истёк (подпись в spec)
